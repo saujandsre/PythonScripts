@@ -1,0 +1,4 @@
+username,shell
+root,/bin/bash
+sync,/bin/sync
+saujan,/usr/bin/zsh

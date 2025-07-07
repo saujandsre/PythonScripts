@@ -1,0 +1,16 @@
+===Disk Usage (df-h) ===
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              3.2G  2.2M  3.2G   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv  114G   29G   80G  27% /
+tmpfs                               16G     0   16G   0% /dev/shm
+tmpfs                              5.0M   16K  5.0M   1% /run/lock
+efivarfs                           256K  117K  135K  47% /sys/firmware/efi/efivars
+/dev/sdb2                          2.0G  234M  1.6G  13% /boot
+/dev/sdb1                          1.1G   16M  1.1G   2% /boot/efi
+tmpfs                              3.2G  172K  3.2G   1% /run/user/1000
+
+
+===Memory Usage (free -m) ===
+               total        used        free      shared  buff/cache   available
+Mem:           31968        2876       26866         445        3078       29092
+Swap:           8191           0        8191
